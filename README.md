@@ -46,5 +46,5 @@ How to Run
    Trained using: IMDB_Dataset
    Stored as: model.pkl
 
-###Note
+### Note
 This project was created as part of Distributed Systems Homework
