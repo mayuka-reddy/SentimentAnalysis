@@ -32,7 +32,6 @@ This project demonstrates the deployment of a machine learning model using both 
 How to Run
 
 ### 1. Clone the Repository
-
 ### 2. Install Dependencies
    pip install -r requirements.txt
 ### 3. Run Flask App
@@ -43,7 +42,9 @@ How to Run
   streamlit run streamlit_app.py
 
 ### Model Information
-Model type: Classification/Regression
-Trained using: IMDB_Dataset
-Stored as: model.pkl
+   Model type: Classification/Regression
+   Trained using: IMDB_Dataset
+   Stored as: model.pkl
 
+###Note
+This project was created as part of Distributed Systems Homework
